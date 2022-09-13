@@ -1,0 +1,28 @@
+    .btn{
+        background-color: red;
+        color: white;
+        width: 25px;
+        border-radius: 10px;
+        margin: 5px;
+        align-self: flex-end;
+    }
+    .btn:hover{
+        background-color: white;
+        color: red;
+    }
+    .divMediun{
+        display: flex;
+        flex-direction: row;
+    }
+    .card{
+        display: flex;
+        flex-direction: column;
+        width: 200px;
+        align-content: center;
+        border: 2px solid gray;
+        border-radius: 10px;
+        height: 200px;
+    }
+    .temp{
+        margin: 10px;
+    }
